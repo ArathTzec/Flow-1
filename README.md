@@ -18,3 +18,7 @@ Una vez completados los pasos anteriores se deberá ver una ventana que cada seg
 
 ## Resultados
 Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se ve en [Pantalla_Node-Red.png](https://github.com/ArathTzec/Flow-1/blob/main/Pantalla_Node-Red.png)
+
+## Evidencia 
+
+Puedes encontrar el video explicativo en el siguiente enlace: [Youtube](https://www.youtube.com/watch?v=so2djHjeGRE)
