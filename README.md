@@ -24,7 +24,6 @@ Una vez completados los pasos anteriores se deberá ver una ventana que cada seg
 ## Evidencia 
 
 Puedes encontrar el video explicativo en el siguiente enlace: [Youtube](https://www.youtube.com/watch?v=so2djHjeGRE)
-=======
-Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se ve en [Pantalla_Node-Red.png](https://github.com/ArathTzec/Flow-1/blob/main/Pantalla_Node-Red.png) ![](https://github.com/ArathTzec/Flow-1/blob/main/Pantalla_Node-Red.png?raw=true)
 
->>>>>>> 4cdfcdbb68a0cd6bc221b58b79ffdc89dc268067
+
+
