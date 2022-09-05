@@ -9,16 +9,22 @@ Para poder realizar necesario es necesario tener instalado:
 ## Instrucciones
 
 >No olvides primero abrir node red desde la terminal con node-red, de igual manera, abrir el **localhost:1880** en tu navegador de preferenecia
-Colocar el bloque de **inject** y el bloque de **debug**. Unir ambos bloques.
-Dar doble click al bloque de **inject** y en donde dice "repeat" seleccionar la opción de *interval* y colocar un tiempo de un segundo.
-Finalmente, dar click en el botón **Deploy** para que se actualicen los cambios. 
+
+- Colocar el bloque de **inject** y el bloque de **debug**. Unir ambos bloques.
+
+- Dar doble click al bloque de **inject** y en donde dice "repeat" seleccionar la opción de *interval* y colocar un tiempo de un segundo.
+
+- Finalmente, dar click en el botón **Deploy** para que se actualicen los cambios. 
+
 
 ## Resultados
-Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se ve en Pantalla_en_nodered.png
-
-## Resultados
+<<<<<<< HEAD
 Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se ve en [Pantalla_Node-Red.png](https://github.com/ArathTzec/Flow-1/blob/main/Pantalla_Node-Red.png)
 
 ## Evidencia 
 
 Puedes encontrar el video explicativo en el siguiente enlace: [Youtube](https://www.youtube.com/watch?v=so2djHjeGRE)
+=======
+Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se ve en [Pantalla_Node-Red.png](https://github.com/ArathTzec/Flow-1/blob/main/Pantalla_Node-Red.png) ![](https://github.com/ArathTzec/Flow-1/blob/main/Pantalla_Node-Red.png?raw=true)
+
+>>>>>>> 4cdfcdbb68a0cd6bc221b58b79ffdc89dc268067
